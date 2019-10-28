@@ -1,0 +1,1 @@
+# ArcoLinux cinnamon desktop settings
