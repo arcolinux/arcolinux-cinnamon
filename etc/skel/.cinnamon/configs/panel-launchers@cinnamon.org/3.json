@@ -14,7 +14,7 @@
             "nemo.desktop",
             "vivaldi-stable.desktop",
             "Thunar.desktop",
-            "termite.desktop"
+            "urxvt.desktop"
         ]
     },
     "allow-dragging": {
